@@ -1,0 +1,8 @@
+@media(max-width: 767px) {
+	.big-cycle-div,
+	.big-cycle-div1,.big-cycle-div2,
+	.big-cycle-div3 {
+		height: 437px;
+	}
+
+}
